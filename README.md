@@ -11,3 +11,4 @@ The masks were generated from the corresponding JSON annotation files.
 The original images were obtained from the official TTPLA repository:  
 [https://github.com/r3ab/ttpla_dataset](https://github.com/r3ab/ttpla_dataset)
 
+Burhan BARAKLI and Ahmet Küçüker
